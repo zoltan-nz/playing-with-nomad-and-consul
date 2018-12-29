@@ -1,0 +1,23 @@
+{
+  "name": "playing-with-nomad-and-consul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoltan-nz/playing-with-nomad-and-consul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoltan-nz/playing-with-nomad-and-consul/issues"
+  },
+  "homepage": "https://github.com/zoltan-nz/playing-with-nomad-and-consul#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
