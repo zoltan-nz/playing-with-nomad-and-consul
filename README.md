@@ -1,1 +1,3 @@
 # Playing with Nomad and Consul
+
+Nomad is not working on macOS properly, quite limited, so it is not really for dev machines...
